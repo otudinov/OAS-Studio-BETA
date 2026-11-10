@@ -1,9 +1,9 @@
-# OAS Studio
+# OAS Studio BETA
 
 Виджеты поверх игры и приборная панель для iRacing, Assetto Corsa Competizione, Le Mans Ultimate и Assetto Corsa EVO.
 
 ## Установка
-1. Откройте [последний выпуск](https://github.com/otudinov/oas-studio-releases/releases/latest).
+1. Откройте [последний выпуск](https://github.com/otudinov/OAS-Studio-BETA/releases/latest).
 2. Скачайте файл `OAS-Studio-Setup-<версия>.exe` и запустите его.
 3. Если Windows покажет «Windows защитила ваш компьютер» — нажмите «Подробнее», затем «Выполнить в любом случае».
 
