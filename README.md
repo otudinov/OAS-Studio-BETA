@@ -1,6 +1,6 @@
 # OAS Studio BETA
 
-Виджеты поверх игры и приборная панель для iRacing, Assetto Corsa Competizione, Le Mans Ultimate и Assetto Corsa EVO.
+Виджеты поверх игры и приборная панель для iRacing, Le Mans Ultimate, Assetto Corsa Competizione и Assetto Corsa EVO.
 
 ## Установка
 1. Откройте [последний выпуск](https://github.com/otudinov/OAS-Studio-BETA/releases/latest).
